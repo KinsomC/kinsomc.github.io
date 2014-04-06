@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kinsomc<-个人博客]]></title>
+  <link href="http://kinsomc.github.io/atom.xml" rel="self"/>
+  <link href="http://kinsomc.github.io/"/>
+  <updated>2014-04-06T15:39:54+08:00</updated>
+  <id>http://kinsomc.github.io/</id>
+  <author>
+    <name><![CDATA[Kinsomc]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[欢迎访问]]></title>
+    <link href="http://kinsomc.github.io/blog/2014/04/06/welcome/"/>
+    <updated>2014-04-06T15:26:33+08:00</updated>
+    <id>http://kinsomc.github.io/blog/2014/04/06/welcome</id>
+    <content type="html"><![CDATA[<p>欢迎到来<a href="http://kinsomc.github.io">http://kinsomc.github.io</a>。</p>
+]]></content>
+  </entry>
+  
+</feed>
