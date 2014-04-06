@@ -4,7 +4,7 @@
   <title><![CDATA[Kinsomc<-个人博客]]></title>
   <link href="http://kinsomc.github.io/atom.xml" rel="self"/>
   <link href="http://kinsomc.github.io/"/>
-  <updated>2014-04-06T16:04:33+08:00</updated>
+  <updated>2014-04-06T17:29:28+08:00</updated>
   <id>http://kinsomc.github.io/</id>
   <author>
     <name><![CDATA[Kinsomc]]></name>
@@ -18,7 +18,10 @@
     <link href="http://kinsomc.github.io/blog/2014/04/06/welcome/"/>
     <updated>2014-04-06T15:26:33+08:00</updated>
     <id>http://kinsomc.github.io/blog/2014/04/06/welcome</id>
-    <content type="html"><![CDATA[<p>欢迎到来<a href="http://kinsomc.github.io">http://kinsomc.github.io</a>。</p>
+    <content type="html"><![CDATA[<p>欢迎到来<a href="http://kinsomc.github.io">http://kinsomc.github.io</a>。<p class='post-footer'></p>
+
+<pre><code>                    original link:&lt;a href='http://kinsomc.github.io/blog/2014/04/06/welcome/'&gt;http://kinsomc.github.io/blog/2014/04/06/welcome/&lt;/a&gt;&lt;br/&gt;&amp;nbsp;written by &lt;a href='http://kinsomc.github.io'&gt;Kinsomc&lt;/a&gt;&amp;nbsp;posted at &lt;a href='http://kinsomc.github.io'&gt;http://kinsomc.github.io&lt;/a&gt;&lt;/p&gt;
+</code></pre>
 ]]></content>
   </entry>
   
