@@ -1,3 +1,0 @@
-kinsomc.github.io
-=================
-kinsomc
